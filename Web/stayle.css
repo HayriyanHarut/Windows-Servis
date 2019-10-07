@@ -38,3 +38,19 @@ background-color: aliceblue
 body{
   background-color: green;
 }
+img{
+  display: inline-block;
+  width: 10%;
+  height: 10%;
+}
+.nomerDiv{
+  width: 50%;
+  display: inline-block;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+.left_menu > ul > li {
+  position: relative;
+}
